@@ -170,3 +170,21 @@ ul{
 .chart svg g text{
     font-size: 18px;
 }
+
+
+/* Responsive behavior */
+
+/* Laptop 1024*/
+@media (max-width: 1024px){
+
+}
+
+/* Tablets 768*/
+@media (max-width: 768px){
+
+}
+
+/* Cellphones 425 */
+@media (max-width: 425px){
+
+}
