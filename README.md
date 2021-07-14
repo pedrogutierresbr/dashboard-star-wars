@@ -29,7 +29,7 @@ Project created to show information about the first six films in the Star Wars f
 
 ```bash
 # clone the repository
-https://github.com/pedrogutierresbr/dashboard-star-wars.git
+git clone https://github.com/pedrogutierresbr/dashboard-star-wars.git
 ```
 
 
